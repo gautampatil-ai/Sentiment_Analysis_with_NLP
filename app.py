@@ -107,7 +107,7 @@ lottie_anim = load_lottieurl(LOTTIE_URL)
 if lottie_anim:
     st_lottie(lottie_anim, height=200, key="coding")
 
-st.title("✨ Review Sentiment Analyzer")
+st.title("✨ Sentiment Analyzer")
 st.markdown("Analyze the tone of your customer reviews with high precision.")
 
 # --------------------------------------------------------------------------
